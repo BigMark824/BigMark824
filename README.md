@@ -1,29 +1,29 @@
-## Hi im mathmark
+## Hi, I'm MathMark
 
-
-- ⚡ Fun fact: I'm a low level C/C++ developer 
-- 🔥 Current Project: <a href="https://goober.biz">GooberBlox</a>
+- ⚡ Fun fact: I'm a low-level C/C++ developer 
+- 🔥 Current Project: [GooberBlox](https://goober.biz)
 - 💻 Favourite Language: C++
 
-I'm passionate about Open Source software and the Linux kernel, I also have side hobbies such as Reverse Engineering and Music 
+I'm passionate about Open Source software and the Linux kernel. I also have side hobbies such as reverse engineering and music.
 
-## Software and Technologies i use in my everyday life 
+## Software and Technologies I Use
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,php,arch,postgres,docker&theme=dark)](https://skillicons.dev)
 
 <details>
-  <summary>Github Stats ⚡</summary>
-  <a href="#">![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&show_icons=true)</a>
+  <summary>GitHub Stats ⚡</summary>
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&show_icons=true)
 </details>
+
 | My Projects      | Description |
-| ----------- | ----------- |
-| [GooberBlox](https://github.com/BigMark824/goober-website)      | 2016 Roblox Private Server       |
-| [RCC-Upkeep-Tool](https://github.com/BigMark824/RCC-Upkeep-Tool)   | RCCService Safety Integration        |
-| [Mark's DarkRP](https://github.com/BigMark824/Marks-DarkRP)   | S&Box DarkRP        |
-| [Goober As A Service](https://github.com/BigMark824/gooberaas)   | Laravel Testing Ground        |
+| ---------------- | ----------- |
+| [GooberBlox](https://github.com/BigMark824/goober-website) | 2016 Roblox Private Server |
+| [RCC-Upkeep-Tool](https://github.com/BigMark824/RCC-Upkeep-Tool) | RCCService Safety Integration |
+| [Mark's DarkRP](https://github.com/BigMark824/Marks-DarkRP) | S&Box DarkRP |
+| [Goober As A Service](https://github.com/BigMark824/gooberaas) | Laravel Testing Ground |
 
-## More about me
+## More About Me
 
-Most of my projects are private/closed-source but if you wanna learn more about me feel free to join my discord or hit me up
+Most of my projects are private/closed-source, but if you want to learn more about me, feel free to join my Discord or hit me up!
 
 [GooberBlox Discord](https://discord.gg/esJ9BmBjUp)
