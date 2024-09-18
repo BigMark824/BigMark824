@@ -1,11 +1,11 @@
 ## Hi im mathmark
 
 
-- ⚡ Fun fact: I'm a low level C++ developer 
+- ⚡ Fun fact: I'm a low level C/C++ developer 
 - 🔥 Current Project: <a href="https://goober.biz">GooberBlox</a>
 - 💻 Favourite Language: C++
 
-I'm passionate about Open Source software and the Linux kernel, I also have side hobbies such as Reverse Engineering and music 
+I'm passionate about Open Source software and the Linux kernel, I also have side hobbies such as Reverse Engineering and Music 
 
 ## Software and Technologies i use in my everyday life 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,php,arch,postgres,docker&theme=dark)](https://skillicons.dev)
@@ -19,7 +19,5 @@ I'm passionate about Open Source software and the Linux kernel, I also have side
 ## More about me
 
 Most of my projects are private/closed-source but if you wanna learn more about me feel free to join my discord or hit me up
-
-mathmark824
 
 [GooberBlox Discord](https://discord.gg/esJ9BmBjUp)
