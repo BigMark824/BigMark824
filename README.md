@@ -8,7 +8,9 @@
 I'm passionate about Open Source software and the Linux kernel, I also have side hobbies such as Reverse Engineering and Music 
 
 ## Software and Technologies i use in my everyday life 
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,php,arch,postgres,docker&theme=dark)](https://skillicons.dev)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&hide=contribs,prs)
 | My Projects      | Description |
 | ----------- | ----------- |
 | [GooberBlox](https://github.com/BigMark824/goober-website)      | 2016 Roblox Private Server       |
