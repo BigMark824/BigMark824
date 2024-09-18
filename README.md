@@ -12,7 +12,7 @@ I'm passionate about Open Source software and the Linux kernel. I also have side
 
 <details>
   <summary>GitHub Stats ⚡</summary>
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&show_icons=true)
+  <a href="#"><![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&show_icons=true)</a>
 </details>
 
 | My Projects      | Description |
