@@ -12,7 +12,8 @@ I'm passionate about Open Source software and the Linux kernel, I also have side
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,php,arch,postgres,docker&theme=dark)](https://skillicons.dev)
 
 <details>
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&show_icons=true)
+  <summary>Github Stats ⚡</summary>
+  <a href="#">![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BigMark824&show_icons=true)</a>
 </details>
 | My Projects      | Description |
 | ----------- | ----------- |
