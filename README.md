@@ -21,6 +21,4 @@ I'm passionate about Open Source software and the Linux kernel. I also have side
 
 ## More About Me
 
-Most of my projects are private/closed-source, but if you want to learn more about me, feel free to join my Discord or hit me up!
-
-[GooberBlox Discord](https://discord.gg/esJ9BmBjUp)
+Most of my projects are private/closed-source, but if you want to learn more about me, feel free to hit me up!
