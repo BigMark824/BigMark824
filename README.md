@@ -1,7 +1,6 @@
 ## Hi, I'm MathMark
 
 - ⚡ Fun fact: I'm a low-level C/C++ developer 
-- 🔥 Current Project: [GooberBlox](https://goober.biz)
 - 💻 Favourite Language: C++
 
 I'm passionate about Open Source software and the Linux kernel. I also have side hobbies such as reverse engineering and music.
@@ -13,7 +12,6 @@ I'm passionate about Open Source software and the Linux kernel. I also have side
 
 | My Projects      | Description |
 | ---------------- | ----------- |
-| [GooberBlox](https://github.com/BigMark824/goober-website) | 2016 Roblox Private Server |
 | [UntitledGame](https://github.com/BigMark824/UntitledGame) | Untitled Game for funsies |
 | [Mark's DarkRP](https://github.com/BigMark824/Marks-DarkRP) | S&Box DarkRP |
 | [Goober As A Service](https://github.com/BigMark824/gooberaas) | Laravel Testing Ground |
