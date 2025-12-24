@@ -7,7 +7,7 @@ I'm passionate about Open Source software and the Linux kernel. I also have side
 
 ## Software and Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,php,arch,postgres,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,php,arch,postgres,docker,redis&theme=dark)](https://skillicons.dev)
 
 
 | My Projects      | Description |
