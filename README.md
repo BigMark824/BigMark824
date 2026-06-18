@@ -1,13 +1,13 @@
 ## Hi, I'm MathMark
 
 - ⚡ Fun fact: I'm a low-level C/C++ developer 
-- 💻 Favourite Language: C++
+- 💻 Favourite Language: C++ and C#
 
 I'm passionate about Open Source software and the Linux kernel. I also have side hobbies such as reverse engineering and music.
 
 ## Software and Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
 
 
 | My Projects      | Description |
