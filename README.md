@@ -18,7 +18,9 @@
 # Hi, I'm Harley 👋
 
 - ⚡ Fun fact: I'm a low-level C/C++ developer
-- 💻 Favourite Language: C++ and C#
+- 💻 Favourite Languages: C++ and C#
+- 💼 I'm currently interning as a Software Developer & Consultant
+- 🎸 I also love to play guitar and see nature
 
 I'm passionate about open source software and the Linux kernel.
 I also enjoy reverse engineering and music.
