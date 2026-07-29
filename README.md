@@ -1,37 +1,44 @@
 <table>
 <tr>
-<td width="340" valign="top">
+<td width="250" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/c04aa47d668bba2c50679d9629fa5d8e141df655/portrait.svg">
-  <img alt="portrait" src="portrait-light.svg" width="330">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/main/portrait.svg">
+  <img
+    src="portrait-light.svg"
+    alt="Portrait"
+    width="220">
 </picture>
 
 </td>
 <td valign="top">
 
-## Hi, I'm Harley
+# Hi, I'm Harley 👋
 
 - ⚡ Fun fact: I'm a low-level C/C++ developer
 - 💻 Favourite Language: C++ and C#
 
-I'm passionate about Open Source software and the Linux kernel. I also have side hobbies such as reverse engineering and music.
+I'm passionate about open source software and the Linux kernel.
+I also enjoy reverse engineering and music.
+
+</td>
+</tr>
+</table>
 
 ## Software and Technologies I Use
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
 
-| My Projects | Description |
-| ------------ | ----------- |
-| [UntitledGame](https://github.com/BigMark824/UntitledGame) | Untitled Game for funsies |
-| [Stupid Simple Matchmaking](https://github.com/BigMark824/StupidSimpleMatchmaking) | Simple PHP MatchMaking system for Live Service games! |
-| [Goober](https://github.com/BigMark824/GooberBlox-backend) | Private server for a widely successful MMO game, based on C# web assemblies |
+## My Projects
+
+| Project | Description |
+| ------- | ----------- |
+| [UntitledGame](https://github.com/BigMark824/UntitledGame) | Untitled game for fun. |
+| [Stupid Simple Matchmaking](https://github.com/BigMark824/StupidSimpleMatchmaking) | Simple PHP matchmaking system for live service games. |
+| [Goober](https://github.com/BigMark824/GooberBlox-backend) | Private server for a widely successful MMO game, based on C# web assemblies. |
 
 ## More About Me
 
-Most of my projects are private/closed-source, but if you want to learn more about me, feel free to hit me up!
-
-</td>
-</tr>
-</table>
+Most of my projects are private or closed-source, but if you'd like to learn more about me, feel free to reach out!
