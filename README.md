@@ -35,5 +35,4 @@ I also enjoy reverse engineering and music.
 - [Wrought](https://github.com/the-even-funnier/Wrought) - C++ Game Engine with Vulkan support
 - [Roblox Studio Internal Patcher](https://github.com/BigMark824/RobloxStudioPatcher) C++ Patcher for Internal access on Roblox Studio
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BigMark824)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats) 
