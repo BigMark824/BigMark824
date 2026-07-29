@@ -26,18 +26,18 @@
 I'm passionate about open source software and the Linux kernel.
 I also enjoy reverse engineering and music.
 
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
+
 </td>
 </tr>
 </table>
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
 
 # 🔥 Top Projects
 - [GooberBlox](https://gooberblox.com) - Massive Multiplayer RPG
 - [Wrought](https://github.com/the-even-funnier/Wrought) - C++ Game Engine with Vulkan support
 - [Roblox Studio Internal Patcher](https://github.com/BigMark824/RobloxStudioPatcher) C++ Patcher for Internal access on Roblox Studio
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BigMark824)](https://git.io/streak-stats)
 
 *"If you don't know where you're going, any road'll take you there" - George Harrison*
