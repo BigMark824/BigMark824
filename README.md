@@ -26,14 +26,11 @@
 I'm passionate about open source software and the Linux kernel.
 I also enjoy reverse engineering and music.
 
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
-
 </td>
 </tr>
 </table>
 
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
 
 # 🔥 Top Projects
 - [GooberBlox](https://gooberblox.com) - Massive Multiplayer RPG
