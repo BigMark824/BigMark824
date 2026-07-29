@@ -42,5 +42,5 @@ I also enjoy reverse engineering and music.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="[https://raw.githubusercontent.com/BigMark824/BigMark824/aa616f263600ae8ebe934c198d28d3211e164df4/portrait3.svg](https://raw.githubusercontent.com/BigMark824/BigMark824/56c347a8e172bd2099f00e84ecd2676a27a43ae3/ssw-logo.svg)"/>
+    srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/56c347a8e172bd2099f00e84ecd2676a27a43ae3/ssw-logo.svg"/>
 </picture>
