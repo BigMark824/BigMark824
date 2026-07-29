@@ -1,5 +1,10 @@
 ## Hi, I'm Harley
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg">
+  <img alt="portrait" src="portrait-light.svg" width="330">
+</picture>
+
 - ⚡ Fun fact: I'm a low-level C/C++ developer 
 - 💻 Favourite Language: C++ and C#
 
