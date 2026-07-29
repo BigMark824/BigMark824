@@ -48,3 +48,13 @@ I also enjoy reverse engineering and music.
     alt="SSW Logo"
     width="220">
 </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/14b3e6c52d1e7b40130e4a4e952ea56a3e63f5fc/tina.svg">
+  <img
+    src="https://raw.githubusercontent.com/BigMark824/BigMark824/14b3e6c52d1e7b40130e4a4e952ea56a3e63f5fc/tina.svg"
+    alt="SSW Logo"
+    width="220">
+</picture>
