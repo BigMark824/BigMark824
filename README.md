@@ -5,7 +5,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/main/portrait.svg">
+    srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/b0257843c1d8d75363260336581bbde93c9e4872/portrait.svg">
   <img
     src="portrait-light.svg"
     alt="Portrait"
