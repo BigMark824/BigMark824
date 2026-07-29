@@ -30,5 +30,7 @@ I also enjoy reverse engineering and music.
 </tr>
 </table>
 
-# 🔧 Top Projects
+# 🔥 Top Projects
 - [GooberBlox](https://gooberblox.com) - Massive Multiplayer RPG
+- [Wrought](https://github.com/the-even-funnier/Wrought) - C++ Game Engine with Vulkan support
+- [Roblox Studio Internal Patcher](https://github.com/BigMark824/RobloxStudioPatcher) C++ Patcher for Internal access on Roblox Studio
