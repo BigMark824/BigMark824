@@ -1,7 +1,7 @@
 ## Hi, I'm Harley
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="portrait-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BigMark824/BigMark824/c04aa47d668bba2c50679d9629fa5d8e141df655/portrait.svg">
   <img alt="portrait" src="portrait-light.svg" width="330">
 </picture>
 
